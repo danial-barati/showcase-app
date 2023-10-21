@@ -1,10 +1,10 @@
 # showcase-template
 
-**Creative Landing Page To Showcase Your Amazing App 📖.**
+**Creative Landing Page To Showcase Your Amazing App 📱.**
 
 ![view](https://github.com/danial-barati/showcase-app/assets/104683176/bb3c6778-14e7-4bfa-a8b1-b22499361156)
 
-- 🔗 [demo](https://danial-barati.github.io/author-template/)
+- 🔗 [demo](https://danial-barati.github.io/showcase-app/)
 
 - 👩🏻‍💻 Developed by danial barati
 
